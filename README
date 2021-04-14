@@ -1,6 +1,9 @@
-# Project 3 - Parsetagram
+# Project 3 - Parsetagram Part 1:
 
 **Parsetamgram** is a photo sharing app similar to Instagram but using Parse as its backend.
+
+I used the same repository for part 1 and 2 so I have combined the readme files by adding part 2s required field to this document.
+Since I am submitting them at the same time I hope that does not cause an issue. If it does I will go back and split up the code.
 
 Time spent: **5** hours spent in total
 
@@ -12,6 +15,10 @@ The following **required** functionality is completed:
 - [x] User can log in and log out of his or her account.
 - [x] The current signed in user is persisted across app restarts.
 - [x] User can take a photo, add a caption, and post it to "Instagram".
+- [x] User can view the last 20 posts submitted to "Instagram".
+- [x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+- [x] User can pull to refresh the last 20 posts submitted to "Instagram".
+
 
 The following **optional** features are implemented:
 
@@ -55,3 +62,5 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
+ 
